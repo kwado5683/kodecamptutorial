@@ -1,0 +1,47 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.container{
+    background-color: slategray;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+
+
+    
+    
+    
+    
+    
+}
+.itemA{
+    width: 70%;
+    height: 100vh;
+    background-image: url("germanshepherd.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.itemB{
+    color:  blueviolet;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    width: 50%;
+    
+    
+  
+    
+    
+}
+button{
+    color: blue;
+    padding: 40px;
+    background-color: brown;
+}
